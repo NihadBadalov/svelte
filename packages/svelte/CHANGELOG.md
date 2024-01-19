@@ -1,5 +1,13 @@
 # svelte
 
+## 5.0.0-next.38
+
+### Patch Changes
+
+- fix: correct increment/decrement code generation ([`2861ad66e`](https://github.com/sveltejs/svelte/commit/2861ad66e054d2b14f382aaada4512e3e5d56db8))
+
+- fix: allow ts casts in bindings ([#10181](https://github.com/sveltejs/svelte/pull/10181))
+
 ## 5.0.0-next.37
 
 ### Patch Changes
